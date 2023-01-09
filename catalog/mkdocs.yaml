@@ -1,0 +1,5 @@
+site_name: happy-hippo
+nav:
+- Home: index.md
+plugins:
+- techdocs-core
